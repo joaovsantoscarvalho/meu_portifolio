@@ -28,3 +28,10 @@ body.dark-mode {
 .dark-mode {
     margin-top: 20px;
 }
+
+.dark-mode-btn {
+    display: flex;
+    background-color: rgb(44, 62,80);
+    color: #ffffff;
+    border-radius: 150px;
+}
