@@ -16,4 +16,10 @@ footer a {
     color: var(--cor-principal);
 }
 
-footer:hover {}
+footer:hover {
+    color: var(--cor-destaque);
+}
+
+body.dark-mode {
+    background-color: rgba(18, 18, 18, 0.853);
+}
