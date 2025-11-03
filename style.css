@@ -37,6 +37,7 @@ body.dark-mode {
 }
 
 .dark-mode-btn:hover {
-    background-color: ;
-    
+    background-color: #ffffff;
+    color: rgb(44, 62, 80);
+    border-radius: 150px;
 }
