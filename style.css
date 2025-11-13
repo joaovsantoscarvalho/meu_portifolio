@@ -16,13 +16,13 @@ footer a {
     color: var(--cor-principal);
 }
 
-footer:hover {
+footer a:hover {
     color: var(--cor-destaque);
 }
 
 body.dark-mode {
     background-color: rgba(18, 18, 18, 0.853);
-    color: #ffffff;
+    color: #fff;
 }
 
 .dark-mode {
@@ -32,12 +32,12 @@ body.dark-mode {
 .dark-mode-btn {
     display: flex;
     background-color: rgb(44, 62,80);
-    color: #ffffff;
+    color: #fff;
     border-radius: 150px;
 }
 
 .dark-mode-btn:hover {
-    background-color: #ffffff;
+    background-color: #fff;
     color: rgb(44, 62, 80);
     border-radius: 150px;
 }
